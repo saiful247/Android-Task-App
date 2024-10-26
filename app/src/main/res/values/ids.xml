@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="et_subject" type="id" />
+    <item name="et_date" type="id" />
+    <item name="et_time" type="id" />
+    <item name="et_description" type="id" />
+    <item name="btn_save" type="id" />
+    <item name="notes_table" type="id" />
+</resources>
